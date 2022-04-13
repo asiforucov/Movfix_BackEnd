@@ -110,3 +110,6 @@ C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Netflix.genr
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Tv_Show\Index.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Pricing\Index.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Movie_Details\Index.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
