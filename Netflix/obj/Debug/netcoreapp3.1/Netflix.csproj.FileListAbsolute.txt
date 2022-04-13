@@ -114,3 +114,8 @@ C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Movie_Details\Index.cshtml.g.cs
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
