@@ -108,3 +108,4 @@ C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Netflix.dll
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Netflix.pdb
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Netflix.genruntimeconfig.cache
 C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asifr\source\repos\Netflix\Netflix\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
